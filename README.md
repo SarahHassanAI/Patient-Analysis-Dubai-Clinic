@@ -1,12 +1,12 @@
 # Patient Flow Analysis for Dubai Healthcare Clinic
 ## Executive Summary:
-Patient satisfaction scores were **declining** at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using Python and Power BI, I identified bottlenecks in patient flow and developed a business action plan. 
+Patient satisfaction scores were declining at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using Python and Power BI, I identified bottlenecks in patient flow and developed a business action plan. 
 
-The analysis reveals opportunities to **reduce average wait times from 22.1 to 15 minutes** and **increase patient satisfaction from 3.7 to 4.3 stars**, potentially protecting **AED 85,000+ in annual revenue**.
+The analysis reveals opportunities to **reduce average wait times** from 22.1 to 15 minutes and **increase patient satisfaction** from 3.7 to 4.3 stars, potentially **protecting AED 85,000+ in annual revenue**.
 
 ## The Business Problem:
 
-Clinic stakeholders noticed **satisfaction scores were declining** (averaging 3.74 / 5) with 38.9% of patients experiencing **long waits over 25 minutes.** This is directly tied to clinic revenue and retention in **Dubai's competitive healthcare market**. 
+Clinic stakeholders noticed satisfaction scores were declining (averaging 3.74/ 5) with 38.9% of patients experiencing long waits **over 25 minutes.** This is directly tied to clinic revenue and retention in **Dubai's competitive healthcare market**. 
 
 How can we determine where bottlenecks are occurring in the patient journey, AND make adjustments to improve patient satisfaction?
 
