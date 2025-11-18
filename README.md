@@ -32,9 +32,10 @@ Business Intelligence: KPIs, metric tracking, dashboard creation, stakeholder re
 
 ## Results & Business Recommendation:
 The analysis revealed that patients with long waits (>25 min) had significantly lower satisfaction scores (2.95 vs 4.61 for short waits). Pediatrics showed the longest average wait times (22.9 min) while afternoons were the busiest slots.
+
 **Here’s how to fix it:**
 
-**Immediate** Actions (0-3 Months):
+- **Immediate** Actions (0-3 Months):
 
    1. Assign additional support staff to Pediatrics during the high-volume afternoon slot.
 
@@ -42,11 +43,12 @@ The analysis revealed that patients with long waits (>25 min) had significantly 
 
    3. Implement SMS wait time updates to manage patient expectations
 
-Long-Term Initiatives **(6+ Months)**:
+- Long-Term Initiatives **(6+ Months)**:
 
   1. **Develop a Predictive Staffing Model** using historical appointment patterns
 
   2. **Automate insurance verification and digital check-in** to reduce front-desk congestion
+
 
 I believe these adjustments will target the largest satisfaction impact points & create a framework for continued operational excellence!
 
