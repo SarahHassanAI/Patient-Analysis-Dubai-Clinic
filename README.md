@@ -2,7 +2,7 @@
 
 ## Executive Summary:
 
-Patient satisfaction scores were declining at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using Python and Power BI, I identified bottlenecks in patient flow and developed a business action plan. 
+Patient satisfaction scores were declining at a Dubai clinic due to **long wait times**, risking patient churn and revenue. Using **Python** and **Power BI**, I identified bottlenecks in patient flow and developed a business action plan. 
 
 The analysis reveals opportunities to **reduce average wait times** from 22.1 to 15 minutes and **increase patient satisfaction** from 3.7 to 4.3 stars, potentially **protecting AED 85,000+ in annual revenue**.
 
